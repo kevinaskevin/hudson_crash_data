@@ -12,6 +12,4 @@ This is the main spreadsheet with the accumulated data and pivot tables
 This is an aborted project where I sanitized the police station names to roughly come up with the % of crashes in each district.
 
 ## Contact
-Email: kevinrbing@gmail.com
-
 Twitter: [@kevinaskevin](https://twitter.com/kevinaskevin)
